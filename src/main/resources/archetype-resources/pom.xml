@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.mavenforphp</groupId>
+        <artifactId>php-parent-pom</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <groupId>${groupId}</groupId>
+    <artifactId>${artifactId}</artifactId>
+    <version>${version}</version>
+    <packaging>php</packaging>
+
+    <name>PHP web app project</name>
+    <description>Sample PHP web app project.</description>
+    <url>http://www.mavenforphp.org</url>
+</project>
